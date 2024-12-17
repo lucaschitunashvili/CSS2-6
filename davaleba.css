@@ -1,0 +1,139 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    max-width: 1480px;
+    width: 100%;
+    border: solid 96px #E4EBFF;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+
+.features {
+    text-align: center;
+    padding-top: 96px;
+    color: #6941C6;
+    font-weight: 600;
+}
+
+.feel {
+    text-align: center;
+    padding-top: 12px;
+    color: #181D27;
+    font-size: 40px;
+    font-weight: 600;
+}
+
+.powerful {
+    text-align: center;
+    padding-top: 32px;
+    color: #535862;
+    font-size: 20px;
+    font-weight: 400;
+}
+
+.share {
+    max-width: 1280px;
+    width: 100%;
+    margin-top: 96px;
+}
+
+.team {
+    max-width: 553px;
+    width: 100%;
+    padding-top: 96px;
+    padding-left: 32px;
+    display: inline-block;
+    vertical-align: top;
+    margin-right: 129px;
+}
+
+.ikon {
+    width: 48px;
+    height: 48px;
+    background: #F4EBFF;
+    border-radius: 9999px;
+}
+
+.fast-first {
+    padding-top: 32px;
+    padding-bottom: 20px;
+}
+
+.fast {
+    padding-bottom: 20px;
+}
+
+.fast-first p {
+    display: inline-block;
+    vertical-align: middle;
+}
+
+.fast-first img {
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+.fast p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.fast-first p {
+    display: inline-block;
+    vertical-align: middle;
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.fast img {
+    vertical-align: middle;
+    padding-right: 12px;
+}
+
+.inbox {
+    padding-top: 20px;
+    padding-bottom: 16px;
+    color: #181D27;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.loop {
+    color: #535862;
+    font-size: 18px;
+    font-weight: 400;
+}
+
+.deliver {
+    display: inline-block;
+    max-width: 560px;
+    width: 100%;
+    vertical-align: top;
+    margin-top: 89px;
+    margin-left: 96px;
+}
+
+.deliver-second {
+    display: inline-block;
+    max-width: 560px;
+    width: 100%;
+    vertical-align: top;
+    margin-top: 89px;
+    padding-left: 32px;
+    margin-bottom: 96px;
+    margin-right: 128px;
+}
+
+
+.zap {
+    margin-left: 12px;
+    margin-top: 12px;
+}
